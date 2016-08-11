@@ -32,3 +32,8 @@ the timestamp:
 ```
 
 You may use this package if you want:  github.com/rcrowley/go-metrics
+
+# How to run
+Step 1: 'python slsdir1.py'
+
+Step 2: 'python slsdir2.py'
